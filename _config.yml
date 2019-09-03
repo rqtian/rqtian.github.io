@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ruiqin Tian"
+  # name             : "Ruiqin Tian"
   avatar           : "ruiqin3.JPG"
   bio              : "Ph.D. candidate,<br>
                       Computer Science Department,<br>
