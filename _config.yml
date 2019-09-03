@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Ruiqin Tian"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate
-                      Department of Computer Science
+  bio              : "Ph.D. candidate 
+                      Department of Computer Science 
                       College of William and Mary"
 #   location         : "Department of Computer Science, College of William and Mary, Williamsburg, 23185 USA"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "rtian@email.wm.edu" 
+#   email            : "rtian@email.wm.edu" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
