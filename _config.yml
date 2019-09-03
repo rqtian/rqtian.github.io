@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. candidate,<br>
                       Computer Science Department,<br>
-                      College of William and Mary.
-                      Email: strcat("r", $myLastName)@email.wm.edu"
+                      College of William and Mary.<br>
+                      Email: strcat('r', $myLastName) AT email.wm.edu"
 #   location         : "Department of Computer Science, College of William and Mary, Williamsburg, 23185 USA"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
