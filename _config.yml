@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Ruiqin Tian"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://rqtian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ruiqin Tian"
+description              : &description "William and Mary"
+url                      : "https://rqtian.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rqtian/rqtian.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,12 +85,12 @@ author:
   bio              : "Ph.D. candidate,<br>
                       Computer Science Department,<br>
                       College of William and Mary.<br>
-                      Email: strcat('r', $myLastName) AT email.wm.edu"
+                      Email: rtian AT email.wm.edu"
 #   location         : "Department of Computer Science, College of William and Mary, Williamsburg, 23185 USA"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
-#   email            : "rtian@email.wm.edu" 
+  email            : "rtian@email.wm.edu" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
