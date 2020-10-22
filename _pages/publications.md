@@ -14,8 +14,10 @@ author_profile: true
 
 **[CGO'19]** **Ruiqin Tian**\*, Junqiao Qiu\*, Zhijia Zhao, Xu Liu, Bin Ren (\* co-primary). [Transforming Query Sequences for High-Throughput B+ Tree Processing on Many-core Processors](https://ieeexplore.ieee.org/document/8661166). The 2019 International Symposium on Code Generation and Optimization (CGO), February, 2019. (Acceptance Rate: 21/69 = 31%)
 
+**[JOCA'15]** **Ruiqin Tian**, Jinzhao Wu, Ding Tang. [Design and implementation of light-weight rules engine on IoT gateway](http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2015.04.1035). Journal of Computer Applications, 2015, 35(4): 1035-1039.
+
 {% if author.googlescholar %}
-  http://www.joca.cn/EN/abstract/abstract17960.shtml  Journal of computer applications
+   
 {% endif %}
 
 {% if author.googlescholar %}
