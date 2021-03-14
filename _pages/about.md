@@ -18,7 +18,7 @@ Compiler support for parallel computing and security improvement:
 
 - High-performance compiler construction(with MLIR);
 - Compiler static analysis and code transformation (with LLVM);
-- Runtime optimization
+- Runtime optimization.
 
 ## Publications
 
@@ -41,6 +41,6 @@ Compiler support for parallel computing and security improvement:
 - Outstanding Graduates (2012, Top 20/100)
 - National Scholarship (2011, Top 1/200).
 
-**Sub-reviewer**: ICCD 2020, TPDS SS AI 2020, NPC 2020, BIGCOM 2019, ICCCN 2019, HIPS19, ipdrm17
+**Sub-reviewer**: ICS 2021, ICCD 2020, TPDS SS AI 2020, NPC 2020, BIGCOM 2019, ICCCN 2019, HIPS19, ipdrm17
 
 **Teaching Assistant**: Computer Organization(Spring 2017),  Simulation(Fall 2016),  Data Structure (Fall 2015, Spring 2016).
