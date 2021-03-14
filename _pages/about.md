@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ## Bio -->
 
-I am a final year Ph.D. student in [Department of Computer Science](https://www.wm.edu/as/computerscience/index.php) in [College of William and Mary](https://www.wm.edu/), advised by Dr. [Bin Ren](http://www.cs.wm.edu/~bren/). Currently, I am having an internship in [High-performance Computing group](https://hpc.pnnl.gov/index.shtml) of [Pacific Northwest National Laboratory](https://www.pnnl.gov/), mentored by [Dr. Gokcen Kestor](https://scholar.google.com/citations?user=KkMYGc0AAAAJ&hl=en).
+I am a final year Ph.D. student in [Department of Computer Science](https://www.wm.edu/as/computerscience/index.php) at [College of William and Mary](https://www.wm.edu/), advised by Dr. [Bin Ren](http://www.cs.wm.edu/~bren/). Currently, I am having an internship in [High-performance Computing group](https://hpc.pnnl.gov/index.shtml) of [Pacific Northwest National Laboratory](https://www.pnnl.gov/), mentored by [Dr. Gokcen Kestor](https://scholar.google.com/citations?user=KkMYGc0AAAAJ&hl=en).
 
 ## Research Interest
 
