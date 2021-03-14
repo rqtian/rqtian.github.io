@@ -16,7 +16,7 @@ I am a final year Ph.D. student in [Department of Computer Science](https://www.
 
 Compiler support for parallel computing and security improvement:
 
-- High-performance compiler construction(with MLIR);
+- High-performance compiler construction (with MLIR);
 - Compiler static analysis and code transformation (with LLVM);
 - Runtime optimization.
 
