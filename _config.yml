@@ -82,9 +82,7 @@ analytics:
 author:
   # name             : "Ruiqin Tian"
   avatar           : "ruiqin.png"
-  bio              : "Ph.D. candidate,<br>
-                      Computer Science Department,<br>
-                      College of William and Mary."
+  bio              : "Ph.D., College of William and Mary."
 #   location         : "Department of Computer Science, College of William and Mary, Williamsburg, 23185 USA"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
